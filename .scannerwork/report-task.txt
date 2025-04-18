@@ -1,0 +1,6 @@
+projectKey=gestion-de-notes
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=gestion-de-notes
+ceTaskId=b6dbb9f6-8f52-4f23-9f62-e707ba94df5e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b6dbb9f6-8f52-4f23-9f62-e707ba94df5e
